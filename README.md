@@ -75,4 +75,3 @@
 -   Post deleting functionality
 -   Add comments on post
 
-**_NOTE: PLEASE LET ME KNOW IF YOU DISCOVERED ANY BUG OR YOU HAVE ANY SUGGESTIONS_**
